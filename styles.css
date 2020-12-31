@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    margin: 25px 50px;
+    padding: 5px 5px;
+
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-style: italic;
+    font-size:18px;
+      }
+     
+.lebron{
+   color:gold;
+      }
+#listing{
+    text-decoration: solid;
+    color:blue;
+    font-size: 14px;
+}
